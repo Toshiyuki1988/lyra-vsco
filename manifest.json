@@ -1,0 +1,1084 @@
+{
+ "license": "VSCO-2 Community Edition (CC0 1.0) https://github.com/sgossner/VSCO-2-CE",
+ "commit": "440300901dfe9275fd84e0b7763af1f8443ae62e",
+ "format": "mono mp3 96kbps 44.1kHz",
+ "voices": {
+  "flute": {
+   "label": "フルート",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 60,
+     "file": "flute/60.mp3",
+     "src": "Woodwinds/Flute/susvib/LDFlute_susvib_C3_v1_1.wav"
+    },
+    {
+     "midi": 64,
+     "file": "flute/64.mp3",
+     "src": "Woodwinds/Flute/susvib/LDFlute_susvib_E3_v1_1.wav"
+    },
+    {
+     "midi": 69,
+     "file": "flute/69.mp3",
+     "src": "Woodwinds/Flute/susvib/LDFlute_susvib_A3_v1_1.wav"
+    },
+    {
+     "midi": 72,
+     "file": "flute/72.mp3",
+     "src": "Woodwinds/Flute/susvib/LDFlute_susvib_C4_v1_1.wav"
+    },
+    {
+     "midi": 76,
+     "file": "flute/76.mp3",
+     "src": "Woodwinds/Flute/susvib/LDFlute_susvib_E4_v1_1.wav"
+    },
+    {
+     "midi": 81,
+     "file": "flute/81.mp3",
+     "src": "Woodwinds/Flute/susvib/LDFlute_susvib_A4_v1_1.wav"
+    },
+    {
+     "midi": 84,
+     "file": "flute/84.mp3",
+     "src": "Woodwinds/Flute/susvib/LDFlute_susvib_C5_v1_1.wav"
+    },
+    {
+     "midi": 88,
+     "file": "flute/88.mp3",
+     "src": "Woodwinds/Flute/susvib/LDFlute_susvib_E5_v1_1.wav"
+    },
+    {
+     "midi": 93,
+     "file": "flute/93.mp3",
+     "src": "Woodwinds/Flute/susvib/LDFlute_susvib_A5_v1_1.wav"
+    },
+    {
+     "midi": 96,
+     "file": "flute/96.mp3",
+     "src": "Woodwinds/Flute/susvib/LDFlute_susvib_C6_v1_1.wav"
+    }
+   ]
+  },
+  "oboe": {
+   "label": "オーボエ",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 58,
+     "file": "oboe/58.mp3",
+     "src": "Woodwinds/Oboe/Vib/Oboe_Vib_A#2_v3_Main.wav"
+    },
+    {
+     "midi": 62,
+     "file": "oboe/62.mp3",
+     "src": "Woodwinds/Oboe/Vib/Oboe_Vib_D3_v3_Main.wav"
+    },
+    {
+     "midi": 65,
+     "file": "oboe/65.mp3",
+     "src": "Woodwinds/Oboe/Vib/Oboe_Vib_F3_v3_Main.wav"
+    },
+    {
+     "midi": 70,
+     "file": "oboe/70.mp3",
+     "src": "Woodwinds/Oboe/Vib/Oboe_Vib_A#3_v3_Main.wav"
+    },
+    {
+     "midi": 74,
+     "file": "oboe/74.mp3",
+     "src": "Woodwinds/Oboe/Vib/Oboe_Vib_D4_v3_Main.wav"
+    },
+    {
+     "midi": 77,
+     "file": "oboe/77.mp3",
+     "src": "Woodwinds/Oboe/Vib/Oboe_Vib_F4_v3_Main.wav"
+    },
+    {
+     "midi": 82,
+     "file": "oboe/82.mp3",
+     "src": "Woodwinds/Oboe/Vib/Oboe_Vib_A#4_v3_Main.wav"
+    },
+    {
+     "midi": 86,
+     "file": "oboe/86.mp3",
+     "src": "Woodwinds/Oboe/Vib/Oboe_Vib_D5_v3_Main.wav"
+    },
+    {
+     "midi": 89,
+     "file": "oboe/89.mp3",
+     "src": "Woodwinds/Oboe/Vib/Oboe_Vib_F5_v3_Main.wav"
+    }
+   ]
+  },
+  "clarinet": {
+   "label": "クラリネット",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 50,
+     "file": "clarinet/50.mp3",
+     "src": "Woodwinds/Clarinet/susLong/DCClar_susLong_D2_v2_rr1_sum.wav"
+    },
+    {
+     "midi": 53,
+     "file": "clarinet/53.mp3",
+     "src": "Woodwinds/Clarinet/susLong/DCClar_susLong_F2_v2_rr1_sum.wav"
+    },
+    {
+     "midi": 58,
+     "file": "clarinet/58.mp3",
+     "src": "Woodwinds/Clarinet/susLong/DCClar_susLong_A#2_v2_rr1_sum.wav"
+    },
+    {
+     "midi": 62,
+     "file": "clarinet/62.mp3",
+     "src": "Woodwinds/Clarinet/susLong/DCClar_susLong_D3_v2_rr1_sum.wav"
+    },
+    {
+     "midi": 65,
+     "file": "clarinet/65.mp3",
+     "src": "Woodwinds/Clarinet/susLong/DCClar_susLong_F3_v2_rr1_sum.wav"
+    },
+    {
+     "midi": 70,
+     "file": "clarinet/70.mp3",
+     "src": "Woodwinds/Clarinet/susLong/DCClar_susLong_A#3_v2_rr1_sum.wav"
+    },
+    {
+     "midi": 74,
+     "file": "clarinet/74.mp3",
+     "src": "Woodwinds/Clarinet/susLong/DCClar_susLong_D4_v2_rr1_sum.wav"
+    },
+    {
+     "midi": 77,
+     "file": "clarinet/77.mp3",
+     "src": "Woodwinds/Clarinet/susLong/DCClar_susLong_F4_v2_rr1_sum.wav"
+    },
+    {
+     "midi": 82,
+     "file": "clarinet/82.mp3",
+     "src": "Woodwinds/Clarinet/susLong/DCClar_susLong_A#4_v2_rr1_sum.wav"
+    },
+    {
+     "midi": 86,
+     "file": "clarinet/86.mp3",
+     "src": "Woodwinds/Clarinet/susLong/DCClar_susLong_D5_v2_rr1_sum.wav"
+    },
+    {
+     "midi": 90,
+     "file": "clarinet/90.mp3",
+     "src": "Woodwinds/Clarinet/susLong/DCClar_susLong_F#5_v2_rr1_sum.wav"
+    }
+   ]
+  },
+  "bassoon": {
+   "label": "ファゴット",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 34,
+     "file": "bassoon/34.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_A#0_v2_1.wav"
+    },
+    {
+     "midi": 37,
+     "file": "bassoon/37.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_C#1_v2_1.wav"
+    },
+    {
+     "midi": 41,
+     "file": "bassoon/41.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_F1_v2_1.wav"
+    },
+    {
+     "midi": 45,
+     "file": "bassoon/45.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_A1_v2_1.wav"
+    },
+    {
+     "midi": 46,
+     "file": "bassoon/46.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_A#1_v2_1.wav"
+    },
+    {
+     "midi": 48,
+     "file": "bassoon/48.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_C2_v2_1.wav"
+    },
+    {
+     "midi": 55,
+     "file": "bassoon/55.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_G2_v2_1.wav"
+    },
+    {
+     "midi": 60,
+     "file": "bassoon/60.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_C3_v2_1.wav"
+    },
+    {
+     "midi": 63,
+     "file": "bassoon/63.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_D#3_v2_1.wav"
+    },
+    {
+     "midi": 68,
+     "file": "bassoon/68.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_G#3_v2_1.wav"
+    },
+    {
+     "midi": 69,
+     "file": "bassoon/69.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_A3_v2_1.wav"
+    },
+    {
+     "midi": 72,
+     "file": "bassoon/72.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_C4_v2_1.wav"
+    },
+    {
+     "midi": 75,
+     "file": "bassoon/75.mp3",
+     "src": "Woodwinds/Bassoon/sus/PSBassoon_D#4_v2_1.wav"
+    }
+   ]
+  },
+  "horn": {
+   "label": "ホルン",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 33,
+     "file": "horn/33.mp3",
+     "src": "Brass/F Horn/sus/MOHorn_sus_A0_v1_1.wav"
+    },
+    {
+     "midi": 36,
+     "file": "horn/36.mp3",
+     "src": "Brass/F Horn/sus/MOHorn_sus_C1_v2_1.wav"
+    },
+    {
+     "midi": 39,
+     "file": "horn/39.mp3",
+     "src": "Brass/F Horn/sus/MOHorn_sus_D#1_v2_1.wav"
+    },
+    {
+     "midi": 43,
+     "file": "horn/43.mp3",
+     "src": "Brass/F Horn/sus/MOHorn_sus_G1_v2_1.wav"
+    },
+    {
+     "midi": 46,
+     "file": "horn/46.mp3",
+     "src": "Brass/F Horn/sus/MOHorn_sus_A#1_v2_1.wav"
+    },
+    {
+     "midi": 50,
+     "file": "horn/50.mp3",
+     "src": "Brass/F Horn/sus/MOHorn_sus_D2_v3_1.wav"
+    },
+    {
+     "midi": 53,
+     "file": "horn/53.mp3",
+     "src": "Brass/F Horn/sus/MOHorn_sus_F2_v2_1.wav"
+    },
+    {
+     "midi": 57,
+     "file": "horn/57.mp3",
+     "src": "Brass/F Horn/sus/MOHorn_sus_A2_v2_1.wav"
+    },
+    {
+     "midi": 60,
+     "file": "horn/60.mp3",
+     "src": "Brass/F Horn/sus/MOHorn_sus_C3_v3_1.wav"
+    },
+    {
+     "midi": 74,
+     "file": "horn/74.mp3",
+     "src": "Brass/F Horn/sus/MOHorn_sus_D4_v1_1.wav"
+    },
+    {
+     "midi": 77,
+     "file": "horn/77.mp3",
+     "src": "Brass/F Horn/sus/MOHorn_sus_F4_v1_1.wav"
+    }
+   ]
+  },
+  "trumpet": {
+   "label": "トランペット",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 53,
+     "file": "trumpet/53.mp3",
+     "src": "Brass/Trumpet/susvib/Sum_SHTrumpet_susvib_F2_v2_rr1.wav"
+    },
+    {
+     "midi": 57,
+     "file": "trumpet/57.mp3",
+     "src": "Brass/Trumpet/susvib/Sum_SHTrumpet_susvib_A2_v2_rr1.wav"
+    },
+    {
+     "midi": 60,
+     "file": "trumpet/60.mp3",
+     "src": "Brass/Trumpet/susvib/Sum_SHTrumpet_susvib_C3_v2_rr1.wav"
+    },
+    {
+     "midi": 63,
+     "file": "trumpet/63.mp3",
+     "src": "Brass/Trumpet/susvib/Sum_SHTrumpet_susvib_D#3_v2_rr1.wav"
+    },
+    {
+     "midi": 65,
+     "file": "trumpet/65.mp3",
+     "src": "Brass/Trumpet/susvib/Sum_SHTrumpet_susvib_F3_v2_rr1.wav"
+    },
+    {
+     "midi": 67,
+     "file": "trumpet/67.mp3",
+     "src": "Brass/Trumpet/susvib/Sum_SHTrumpet_susvib_G3_v2_rr1.wav"
+    },
+    {
+     "midi": 70,
+     "file": "trumpet/70.mp3",
+     "src": "Brass/Trumpet/susvib/Sum_SHTrumpet_susvib_A#3_v2_rr1.wav"
+    },
+    {
+     "midi": 74,
+     "file": "trumpet/74.mp3",
+     "src": "Brass/Trumpet/susvib/Sum_SHTrumpet_susvib_D4_v2_rr1.wav"
+    },
+    {
+     "midi": 77,
+     "file": "trumpet/77.mp3",
+     "src": "Brass/Trumpet/susvib/Sum_SHTrumpet_susvib_F4_v2_rr1.wav"
+    },
+    {
+     "midi": 81,
+     "file": "trumpet/81.mp3",
+     "src": "Brass/Trumpet/susvib/Sum_SHTrumpet_susvib_A4_v2_rr1.wav"
+    },
+    {
+     "midi": 84,
+     "file": "trumpet/84.mp3",
+     "src": "Brass/Trumpet/susvib/Sum_SHTrumpet_susvib_C5_v2_rr1.wav"
+    }
+   ]
+  },
+  "trombone": {
+   "label": "トロンボーン",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 34,
+     "file": "trombone/34.mp3",
+     "src": "Brass/Tenor Trombone/sus/tenortbn_sus_A#0_v2_1.wav"
+    },
+    {
+     "midi": 37,
+     "file": "trombone/37.mp3",
+     "src": "Brass/Tenor Trombone/sus/tenortbn_sus_C#1_v2_1.wav"
+    },
+    {
+     "midi": 39,
+     "file": "trombone/39.mp3",
+     "src": "Brass/Tenor Trombone/sus/tenortbn_sus_D#1_v2_1.wav"
+    },
+    {
+     "midi": 41,
+     "file": "trombone/41.mp3",
+     "src": "Brass/Tenor Trombone/sus/tenortbn_sus_F1_v2_1.wav"
+    },
+    {
+     "midi": 46,
+     "file": "trombone/46.mp3",
+     "src": "Brass/Tenor Trombone/sus/tenortbn_sus_A#1_v2_1.wav"
+    },
+    {
+     "midi": 50,
+     "file": "trombone/50.mp3",
+     "src": "Brass/Tenor Trombone/sus/tenortbn_sus_D2_v2_1.wav"
+    },
+    {
+     "midi": 53,
+     "file": "trombone/53.mp3",
+     "src": "Brass/Tenor Trombone/sus/tenortbn_sus_F2_v2_1.wav"
+    },
+    {
+     "midi": 60,
+     "file": "trombone/60.mp3",
+     "src": "Brass/Tenor Trombone/sus/tenortbn_sus_C3_v2_1.wav"
+    },
+    {
+     "midi": 61,
+     "file": "trombone/61.mp3",
+     "src": "Brass/Tenor Trombone/sus/tenortbn_sus_C#3_v2_1.wav"
+    },
+    {
+     "midi": 63,
+     "file": "trombone/63.mp3",
+     "src": "Brass/Tenor Trombone/sus/tenortbn_sus_D#3_v2_1.wav"
+    },
+    {
+     "midi": 65,
+     "file": "trombone/65.mp3",
+     "src": "Brass/Tenor Trombone/sus/tenortbn_sus_F3_v2_1.wav"
+    }
+   ]
+  },
+  "tuba": {
+   "label": "チューバ",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 29,
+     "file": "tuba/29.mp3",
+     "src": "Brass/Tuba/sus/Tuba3_sus_F0_v1_rr1_Mid.wav"
+    },
+    {
+     "midi": 34,
+     "file": "tuba/34.mp3",
+     "src": "Brass/Tuba/sus/Tuba3_sus_A#0_v2_rr1_Mid.wav"
+    },
+    {
+     "midi": 39,
+     "file": "tuba/39.mp3",
+     "src": "Brass/Tuba/sus/Tuba3_sus_D#1_v2_rr1_Mid.wav"
+    },
+    {
+     "midi": 41,
+     "file": "tuba/41.mp3",
+     "src": "Brass/Tuba/sus/Tuba3_sus_F1_v2_rr1_Mid.wav"
+    },
+    {
+     "midi": 46,
+     "file": "tuba/46.mp3",
+     "src": "Brass/Tuba/sus/Tuba3_sus_A#1_v2_rr1_Mid.wav"
+    },
+    {
+     "midi": 50,
+     "file": "tuba/50.mp3",
+     "src": "Brass/Tuba/sus/Tuba3_sus_D2_v2_rr1_Mid.wav"
+    },
+    {
+     "midi": 53,
+     "file": "tuba/53.mp3",
+     "src": "Brass/Tuba/sus/Tuba3_sus_F2_v2_rr1_Mid.wav"
+    },
+    {
+     "midi": 58,
+     "file": "tuba/58.mp3",
+     "src": "Brass/Tuba/sus/Tuba3_sus_A#2_v2_rr1_Mid.wav"
+    },
+    {
+     "midi": 62,
+     "file": "tuba/62.mp3",
+     "src": "Brass/Tuba/sus/Tuba3_sus_D3_v1_rr1_Mid.wav"
+    }
+   ]
+  },
+  "violin": {
+   "label": "ヴァイオリン(セクション)",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 55,
+     "file": "violin/55.mp3",
+     "src": "Strings/Violin Section/susVib/VlnEns_susVib_G2_v2.wav"
+    },
+    {
+     "midi": 57,
+     "file": "violin/57.mp3",
+     "src": "Strings/Violin Section/susVib/VlnEns_susVib_A2_v2.wav"
+    },
+    {
+     "midi": 59,
+     "file": "violin/59.mp3",
+     "src": "Strings/Violin Section/susVib/VlnEns_susVib_B2_v2.wav"
+    },
+    {
+     "midi": 62,
+     "file": "violin/62.mp3",
+     "src": "Strings/Violin Section/susVib/VlnEns_susVib_D3_v2.wav"
+    },
+    {
+     "midi": 66,
+     "file": "violin/66.mp3",
+     "src": "Strings/Violin Section/susVib/VlnEns_susVib_F#3_v2.wav"
+    },
+    {
+     "midi": 69,
+     "file": "violin/69.mp3",
+     "src": "Strings/Violin Section/susVib/VlnEns_susVib_A3_v2.wav"
+    },
+    {
+     "midi": 72,
+     "file": "violin/72.mp3",
+     "src": "Strings/Violin Section/susVib/VlnEns_susVib_C4_v2.wav"
+    },
+    {
+     "midi": 76,
+     "file": "violin/76.mp3",
+     "src": "Strings/Violin Section/susVib/VlnEns_susVib_E4_v2.wav"
+    },
+    {
+     "midi": 79,
+     "file": "violin/79.mp3",
+     "src": "Strings/Violin Section/susVib/VlnEns_susVib_G4_v2.wav"
+    },
+    {
+     "midi": 83,
+     "file": "violin/83.mp3",
+     "src": "Strings/Violin Section/susVib/VlnEns_susVib_B4_v2.wav"
+    },
+    {
+     "midi": 86,
+     "file": "violin/86.mp3",
+     "src": "Strings/Violin Section/susVib/VlnEns_susVib_D5_v2.wav"
+    }
+   ]
+  },
+  "viola": {
+   "label": "ヴィオラ(セクション)",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 48,
+     "file": "viola/48.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_C2_v2_1.wav"
+    },
+    {
+     "midi": 50,
+     "file": "viola/50.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_D2_v2_1.wav"
+    },
+    {
+     "midi": 52,
+     "file": "viola/52.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_E2_v2_1.wav"
+    },
+    {
+     "midi": 55,
+     "file": "viola/55.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_G2_v2_1.wav"
+    },
+    {
+     "midi": 59,
+     "file": "viola/59.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_B2_v2_1.wav"
+    },
+    {
+     "midi": 62,
+     "file": "viola/62.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_D3_v2_1.wav"
+    },
+    {
+     "midi": 65,
+     "file": "viola/65.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_F3_v2_1.wav"
+    },
+    {
+     "midi": 69,
+     "file": "viola/69.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_A3_v2_1.wav"
+    },
+    {
+     "midi": 72,
+     "file": "viola/72.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_C4_v2_1.wav"
+    },
+    {
+     "midi": 76,
+     "file": "viola/76.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_E4_v2_1.wav"
+    },
+    {
+     "midi": 79,
+     "file": "viola/79.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_G4_v2_1.wav"
+    },
+    {
+     "midi": 83,
+     "file": "viola/83.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_B4_v2_1.wav"
+    },
+    {
+     "midi": 86,
+     "file": "viola/86.mp3",
+     "src": "Strings/Viola Section/susvib/ViolaEns_susvib_D5_v2_1.wav"
+    }
+   ]
+  },
+  "cello": {
+   "label": "チェロ(セクション)",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 36,
+     "file": "cello/36.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_C1_v3_1.wav"
+    },
+    {
+     "midi": 40,
+     "file": "cello/40.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_E1_v3_1.wav"
+    },
+    {
+     "midi": 43,
+     "file": "cello/43.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_G1_v3_1.wav"
+    },
+    {
+     "midi": 47,
+     "file": "cello/47.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_B1_v3_1.wav"
+    },
+    {
+     "midi": 50,
+     "file": "cello/50.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_D2_v3_1.wav"
+    },
+    {
+     "midi": 53,
+     "file": "cello/53.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_F2_v3_1.wav"
+    },
+    {
+     "midi": 57,
+     "file": "cello/57.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_A2_v3_1.wav"
+    },
+    {
+     "midi": 60,
+     "file": "cello/60.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_C3_v3_1.wav"
+    },
+    {
+     "midi": 64,
+     "file": "cello/64.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_E3_v3_1.wav"
+    },
+    {
+     "midi": 67,
+     "file": "cello/67.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_G3_v3_1.wav"
+    },
+    {
+     "midi": 71,
+     "file": "cello/71.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_B3_v3_1.wav"
+    },
+    {
+     "midi": 74,
+     "file": "cello/74.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_D4_v3_1.wav"
+    },
+    {
+     "midi": 77,
+     "file": "cello/77.mp3",
+     "src": "Strings/Cello Section/susvib/susvib_F4_v3_1.wav"
+    }
+   ]
+  },
+  "contrabass": {
+   "label": "コントラバス",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 30,
+     "file": "contrabass/30.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_F#0_v3_rr1.wav"
+    },
+    {
+     "midi": 31,
+     "file": "contrabass/31.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_G0_v3_rr1.wav"
+    },
+    {
+     "midi": 34,
+     "file": "contrabass/34.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_A#0_v3_rr1.wav"
+    },
+    {
+     "midi": 36,
+     "file": "contrabass/36.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_C1_v3_rr1.wav"
+    },
+    {
+     "midi": 38,
+     "file": "contrabass/38.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_D1_v3_rr1.wav"
+    },
+    {
+     "midi": 40,
+     "file": "contrabass/40.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_E1_v3_rr1.wav"
+    },
+    {
+     "midi": 42,
+     "file": "contrabass/42.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_F#1_v3_rr1.wav"
+    },
+    {
+     "midi": 44,
+     "file": "contrabass/44.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_G#1_v3_rr1.wav"
+    },
+    {
+     "midi": 45,
+     "file": "contrabass/45.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_A1_v3_rr1.wav"
+    },
+    {
+     "midi": 49,
+     "file": "contrabass/49.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_C#2_v3_rr1.wav"
+    },
+    {
+     "midi": 52,
+     "file": "contrabass/52.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_E2_v3_rr1.wav"
+    },
+    {
+     "midi": 56,
+     "file": "contrabass/56.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_G#2_v3_rr1.wav"
+    },
+    {
+     "midi": 59,
+     "file": "contrabass/59.mp3",
+     "src": "Strings/Solo Contrabass/SusVib/BKCtbss_SusVib_B2_v3_rr1.wav"
+    }
+   ]
+  },
+  "harp": {
+   "label": "ハープ",
+   "shift": 0,
+   "files": [
+    {
+     "midi": 28,
+     "file": "harp/28.mp3",
+     "src": "Strings/Harp/KSHarp_E1_f.wav"
+    },
+    {
+     "midi": 31,
+     "file": "harp/31.mp3",
+     "src": "Strings/Harp/KSHarp_G1_mp.wav"
+    },
+    {
+     "midi": 35,
+     "file": "harp/35.mp3",
+     "src": "Strings/Harp/KSHarp_B1_mf.wav"
+    },
+    {
+     "midi": 38,
+     "file": "harp/38.mp3",
+     "src": "Strings/Harp/KSHarp_D2_mf.wav"
+    },
+    {
+     "midi": 41,
+     "file": "harp/41.mp3",
+     "src": "Strings/Harp/KSHarp_F2_mf.wav"
+    },
+    {
+     "midi": 45,
+     "file": "harp/45.mp3",
+     "src": "Strings/Harp/KSHarp_A2_mf.wav"
+    },
+    {
+     "midi": 48,
+     "file": "harp/48.mp3",
+     "src": "Strings/Harp/KSHarp_C3_mf.wav"
+    },
+    {
+     "midi": 52,
+     "file": "harp/52.mp3",
+     "src": "Strings/Harp/KSHarp_E3_mf.wav"
+    },
+    {
+     "midi": 55,
+     "file": "harp/55.mp3",
+     "src": "Strings/Harp/KSHarp_G3_mf.wav"
+    },
+    {
+     "midi": 59,
+     "file": "harp/59.mp3",
+     "src": "Strings/Harp/KSHarp_B3_mf.wav"
+    },
+    {
+     "midi": 62,
+     "file": "harp/62.mp3",
+     "src": "Strings/Harp/KSHarp_D4_mf.wav"
+    },
+    {
+     "midi": 65,
+     "file": "harp/65.mp3",
+     "src": "Strings/Harp/KSHarp_F4_mf.wav"
+    },
+    {
+     "midi": 69,
+     "file": "harp/69.mp3",
+     "src": "Strings/Harp/KSHarp_A4_mf.wav"
+    },
+    {
+     "midi": 72,
+     "file": "harp/72.mp3",
+     "src": "Strings/Harp/KSHarp_C5_mf.wav"
+    },
+    {
+     "midi": 76,
+     "file": "harp/76.mp3",
+     "src": "Strings/Harp/KSHarp_E5_mf.wav"
+    },
+    {
+     "midi": 79,
+     "file": "harp/79.mp3",
+     "src": "Strings/Harp/KSHarp_G5_mf.wav"
+    },
+    {
+     "midi": 83,
+     "file": "harp/83.mp3",
+     "src": "Strings/Harp/KSHarp_B5_mf.wav"
+    },
+    {
+     "midi": 86,
+     "file": "harp/86.mp3",
+     "src": "Strings/Harp/KSHarp_D6_mf.wav"
+    },
+    {
+     "midi": 89,
+     "file": "harp/89.mp3",
+     "src": "Strings/Harp/KSHarp_F6_mf.wav"
+    },
+    {
+     "midi": 93,
+     "file": "harp/93.mp3",
+     "src": "Strings/Harp/KSHarp_A6_mf.wav"
+    },
+    {
+     "midi": 95,
+     "file": "harp/95.mp3",
+     "src": "Strings/Harp/KSHarp_B6_mf.wav"
+    },
+    {
+     "midi": 98,
+     "file": "harp/98.mp3",
+     "src": "Strings/Harp/KSHarp_D7_f.wav"
+    },
+    {
+     "midi": 101,
+     "file": "harp/101.mp3",
+     "src": "Strings/Harp/KSHarp_F7_f.wav"
+    }
+   ]
+  },
+  "piano": {
+   "label": "アップライトピアノ",
+   "shift": 0,
+   "files": [
+    {
+     "midi": 31,
+     "file": "piano/31.mp3",
+     "src": "Keys/Upright Nr1/UR1_G1_mf_RR1.wav"
+    },
+    {
+     "midi": 36,
+     "file": "piano/36.mp3",
+     "src": "Keys/Upright Nr1/UR1_C2_mf_RR1.wav"
+    },
+    {
+     "midi": 43,
+     "file": "piano/43.mp3",
+     "src": "Keys/Upright Nr1/UR1_G2_mf_RR1.wav"
+    },
+    {
+     "midi": 48,
+     "file": "piano/48.mp3",
+     "src": "Keys/Upright Nr1/UR1_C3_mf_RR1.wav"
+    },
+    {
+     "midi": 55,
+     "file": "piano/55.mp3",
+     "src": "Keys/Upright Nr1/UR1_G3_mf_RR1.wav"
+    },
+    {
+     "midi": 60,
+     "file": "piano/60.mp3",
+     "src": "Keys/Upright Nr1/UR1_C4_mf_RR1.wav"
+    },
+    {
+     "midi": 67,
+     "file": "piano/67.mp3",
+     "src": "Keys/Upright Nr1/UR1_G4_mf_RR1.wav"
+    },
+    {
+     "midi": 72,
+     "file": "piano/72.mp3",
+     "src": "Keys/Upright Nr1/UR1_C5_mf_RR1.wav"
+    },
+    {
+     "midi": 79,
+     "file": "piano/79.mp3",
+     "src": "Keys/Upright Nr1/UR1_G5_mf_RR1.wav"
+    },
+    {
+     "midi": 84,
+     "file": "piano/84.mp3",
+     "src": "Keys/Upright Nr1/UR1_C6_mf_RR1.wav"
+    },
+    {
+     "midi": 91,
+     "file": "piano/91.mp3",
+     "src": "Keys/Upright Nr1/UR1_G6_mf_RR1.wav"
+    },
+    {
+     "midi": 96,
+     "file": "piano/96.mp3",
+     "src": "Keys/Upright Nr1/UR1_C7_mf_RR1.wav"
+    },
+    {
+     "midi": 103,
+     "file": "piano/103.mp3",
+     "src": "Keys/Upright Nr1/UR1_G7_mf_RR1.wav"
+    }
+   ]
+  },
+  "marimba": {
+   "label": "マリンバ",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 41,
+     "file": "marimba/41.mp3",
+     "src": "Percussion/Marimba/Marimba_hit_Outrigger_F1_loud_01.wav"
+    },
+    {
+     "midi": 48,
+     "file": "marimba/48.mp3",
+     "src": "Percussion/Marimba/Marimba_hit_Outrigger_C2_loud_01.wav"
+    },
+    {
+     "midi": 55,
+     "file": "marimba/55.mp3",
+     "src": "Percussion/Marimba/Marimba_hit_Outrigger_G2_loud_01.wav"
+    },
+    {
+     "midi": 59,
+     "file": "marimba/59.mp3",
+     "src": "Percussion/Marimba/Marimba_hit_Outrigger_B2_loud_01.wav"
+    },
+    {
+     "midi": 65,
+     "file": "marimba/65.mp3",
+     "src": "Percussion/Marimba/Marimba_hit_Outrigger_F3_loud_01.wav"
+    },
+    {
+     "midi": 72,
+     "file": "marimba/72.mp3",
+     "src": "Percussion/Marimba/Marimba_hit_Outrigger_C4_loud_01.wav"
+    },
+    {
+     "midi": 79,
+     "file": "marimba/79.mp3",
+     "src": "Percussion/Marimba/Marimba_hit_Outrigger_G4_loud_01.wav"
+    },
+    {
+     "midi": 83,
+     "file": "marimba/83.mp3",
+     "src": "Percussion/Marimba/Marimba_hit_Outrigger_B4_loud_01.wav"
+    },
+    {
+     "midi": 89,
+     "file": "marimba/89.mp3",
+     "src": "Percussion/Marimba/Marimba_hit_Outrigger_F5_loud_01.wav"
+    },
+    {
+     "midi": 96,
+     "file": "marimba/96.mp3",
+     "src": "Percussion/Marimba/Marimba_hit_Outrigger_C6_loud_01.wav"
+    }
+   ]
+  },
+  "glock": {
+   "label": "グロッケンシュピール",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 79,
+     "file": "glock/79.mp3",
+     "src": "Percussion/Glock/glock_medium_G4.wav"
+    },
+    {
+     "midi": 84,
+     "file": "glock/84.mp3",
+     "src": "Percussion/Glock/glock_medium_C5.wav"
+    },
+    {
+     "midi": 91,
+     "file": "glock/91.mp3",
+     "src": "Percussion/Glock/glock_medium_G5.wav"
+    },
+    {
+     "midi": 96,
+     "file": "glock/96.mp3",
+     "src": "Percussion/Glock/glock_medium_C6.wav"
+    },
+    {
+     "midi": 103,
+     "file": "glock/103.mp3",
+     "src": "Percussion/Glock/glock_medium_G6.wav"
+    },
+    {
+     "midi": 108,
+     "file": "glock/108.mp3",
+     "src": "Percussion/Glock/glock_medium_C7.wav"
+    }
+   ]
+  },
+  "xylo": {
+   "label": "シロフォン",
+   "shift": 12,
+   "files": [
+    {
+     "midi": 67,
+     "file": "xylo/67.mp3",
+     "src": "Percussion/Xylo/Xylo_Medium_G3_ff_01_far.wav"
+    },
+    {
+     "midi": 72,
+     "file": "xylo/72.mp3",
+     "src": "Percussion/Xylo/Xylo_Medium_C4_ff_01_far.wav"
+    },
+    {
+     "midi": 79,
+     "file": "xylo/79.mp3",
+     "src": "Percussion/Xylo/Xylo_Medium_G4_ff_01_far.wav"
+    },
+    {
+     "midi": 84,
+     "file": "xylo/84.mp3",
+     "src": "Percussion/Xylo/Xylo_Medium_C5_ff_01_far.wav"
+    },
+    {
+     "midi": 91,
+     "file": "xylo/91.mp3",
+     "src": "Percussion/Xylo/Xylo_Medium_G5_ff_01_far.wav"
+    },
+    {
+     "midi": 96,
+     "file": "xylo/96.mp3",
+     "src": "Percussion/Xylo/Xylo_Medium_C6_ff_01_far.wav"
+    },
+    {
+     "midi": 103,
+     "file": "xylo/103.mp3",
+     "src": "Percussion/Xylo/Xylo_Medium_G6_ff_01_far.wav"
+    },
+    {
+     "midi": 108,
+     "file": "xylo/108.mp3",
+     "src": "Percussion/Xylo/Xylo_Medium_C7_ff_01_far.wav"
+    }
+   ]
+  }
+ }
+}
